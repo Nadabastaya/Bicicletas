@@ -1,0 +1,14 @@
+c:\users\duoc\source\repos\Bicicletas\Bicicletas\bin\Debug\Bicicletas.exe.config
+c:\users\duoc\source\repos\Bicicletas\Bicicletas\bin\Debug\Bicicletas.exe
+c:\users\duoc\source\repos\Bicicletas\Bicicletas\bin\Debug\Bicicletas.pdb
+c:\users\duoc\source\repos\Bicicletas\Bicicletas\obj\Debug\Bicicletas.csprojAssemblyReference.cache
+c:\users\duoc\source\repos\Bicicletas\Bicicletas\obj\Debug\Bicicletas.Properties.Resources.resources
+c:\users\duoc\source\repos\Bicicletas\Bicicletas\obj\Debug\Bicicletas.csproj.GenerateResource.cache
+c:\users\duoc\source\repos\Bicicletas\Bicicletas\obj\Debug\Bicicletas.csproj.CoreCompileInputs.cache
+c:\users\duoc\source\repos\Bicicletas\Bicicletas\obj\Debug\Bicicletas.exe
+c:\users\duoc\source\repos\Bicicletas\Bicicletas\obj\Debug\Bicicletas.pdb
+c:\users\duoc\source\repos\Bicicletas\Bicicletas\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+c:\users\duoc\source\repos\Bicicletas\Bicicletas\obj\Debug\Bicicletas.csproj.CopyComplete
+c:\users\duoc\source\repos\Bicicletas\Bicicletas\obj\Debug\Bicicletas.ConsultarAlumnos.resources
+c:\users\duoc\source\repos\Bicicletas\Bicicletas\obj\Debug\Bicicletas.ConsultarBicicleta.resources
+C:\Users\DUOC\source\repos\Bicicletas\Bicicletas\obj\Debug\Bicicletas.Menu.resources
